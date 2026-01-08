@@ -7,7 +7,7 @@ Lightweight Python CLI tool to get instant weather reports via wttr.in. Supports
 * Python 3.12
 * Requests
 * Argparse
-## Installation
+## Installation(option 1: Direct run)
 1. **Clone the repository:**
 ``` bash
 git clone https://github.com/KG1303/weather-cli-tool.git [<directory-name>]
@@ -28,6 +28,12 @@ pip install -r requirements.txt
 4. **Run it:**
 ``` bash
 python main.py
+```
+## Installation(option 2: Global Command)
+1. **Do the installation(option 1), but don't run the file**
+2. **In the project folder open terminal and run this command:**
+``` bash
+pip install .
 ```
 *P.S. You need to install git and python 3.x before installing.*  
 
