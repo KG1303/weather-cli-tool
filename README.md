@@ -7,6 +7,7 @@ Lightweight Python CLI tool to get instant weather reports via wttr.in. Supports
 * Python 3.12
 * Requests
 * Argparse
+* Setuptools
 ## Installation(option 1: Direct run)
 1. **Clone the repository:**
 ``` bash
